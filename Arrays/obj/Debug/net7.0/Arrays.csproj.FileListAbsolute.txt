@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/Arrays/bin/Debug/net7.0/Arrays
+/home/benji/Desktop/SAmple/CSHARP/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/home/benji/Desktop/SAmple/CSHARP/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/Arrays/bin/Debug/net7.0/Arrays.dll
+/home/benji/Desktop/SAmple/CSHARP/Arrays/bin/Debug/net7.0/Arrays.pdb
+/home/benji/Desktop/SAmple/CSHARP/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/Arrays/obj/Debug/net7.0/Arrays.dll
+/home/benji/Desktop/SAmple/CSHARP/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/home/benji/Desktop/SAmple/CSHARP/Arrays/obj/Debug/net7.0/Arrays.pdb
+/home/benji/Desktop/SAmple/CSHARP/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/Arrays/obj/Debug/net7.0/ref/Arrays.dll
