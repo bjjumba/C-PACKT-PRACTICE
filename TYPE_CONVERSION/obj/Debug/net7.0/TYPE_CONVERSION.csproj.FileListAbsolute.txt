@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/bin/Debug/net7.0/TYPE_CONVERSION
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/bin/Debug/net7.0/TYPE_CONVERSION.deps.json
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/bin/Debug/net7.0/TYPE_CONVERSION.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/bin/Debug/net7.0/TYPE_CONVERSION.dll
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/bin/Debug/net7.0/TYPE_CONVERSION.pdb
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/obj/Debug/net7.0/TYPE_CONVERSION.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/obj/Debug/net7.0/TYPE_CONVERSION.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/obj/Debug/net7.0/TYPE_CONVERSION.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/obj/Debug/net7.0/TYPE_CONVERSION.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/obj/Debug/net7.0/TYPE_CONVERSION.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/obj/Debug/net7.0/TYPE_CONVERSION.dll
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/obj/Debug/net7.0/refint/TYPE_CONVERSION.dll
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/obj/Debug/net7.0/TYPE_CONVERSION.pdb
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/obj/Debug/net7.0/TYPE_CONVERSION.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/TYPE_CONVERSION/obj/Debug/net7.0/ref/TYPE_CONVERSION.dll

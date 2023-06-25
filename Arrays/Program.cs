@@ -13,6 +13,8 @@
                     Console.Write($"{sample[i, j]} ");
                 }
             }
+
+            
            Console.WriteLine("Hello World");
         }
     }
