@@ -12,8 +12,11 @@
 
             //conversion using helper classes
             int p=int.Parse("42");
+            //try readline
 
-            Console.WriteLine(p.GetType());
+            var input=Console.ReadLine();
+
+            Console.WriteLine(input.GetType());
 
         }
     }

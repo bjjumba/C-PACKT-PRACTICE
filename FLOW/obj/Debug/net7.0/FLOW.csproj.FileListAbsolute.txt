@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/FLOW/bin/Debug/net7.0/FLOW
+/home/benji/Desktop/SAmple/CSHARP/FLOW/bin/Debug/net7.0/FLOW.deps.json
+/home/benji/Desktop/SAmple/CSHARP/FLOW/bin/Debug/net7.0/FLOW.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/FLOW/bin/Debug/net7.0/FLOW.dll
+/home/benji/Desktop/SAmple/CSHARP/FLOW/bin/Debug/net7.0/FLOW.pdb
+/home/benji/Desktop/SAmple/CSHARP/FLOW/obj/Debug/net7.0/FLOW.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/FLOW/obj/Debug/net7.0/FLOW.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/FLOW/obj/Debug/net7.0/FLOW.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/FLOW/obj/Debug/net7.0/FLOW.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/FLOW/obj/Debug/net7.0/FLOW.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/FLOW/obj/Debug/net7.0/FLOW.dll
+/home/benji/Desktop/SAmple/CSHARP/FLOW/obj/Debug/net7.0/refint/FLOW.dll
+/home/benji/Desktop/SAmple/CSHARP/FLOW/obj/Debug/net7.0/FLOW.pdb
+/home/benji/Desktop/SAmple/CSHARP/FLOW/obj/Debug/net7.0/FLOW.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/FLOW/obj/Debug/net7.0/ref/FLOW.dll

@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/bin/Debug/net7.0/USER-DEFINED-TYPES
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/bin/Debug/net7.0/USER-DEFINED-TYPES.deps.json
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/bin/Debug/net7.0/USER-DEFINED-TYPES.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/bin/Debug/net7.0/USER-DEFINED-TYPES.dll
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/bin/Debug/net7.0/USER-DEFINED-TYPES.pdb
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/obj/Debug/net7.0/USER-DEFINED-TYPES.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/obj/Debug/net7.0/USER-DEFINED-TYPES.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/obj/Debug/net7.0/USER-DEFINED-TYPES.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/obj/Debug/net7.0/USER-DEFINED-TYPES.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/obj/Debug/net7.0/USER-DEFINED-TYPES.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/obj/Debug/net7.0/USER-DEFINED-TYPES.dll
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/obj/Debug/net7.0/refint/USER-DEFINED-TYPES.dll
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/obj/Debug/net7.0/USER-DEFINED-TYPES.pdb
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/obj/Debug/net7.0/USER-DEFINED-TYPES.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/USER-DEFINED-TYPES/obj/Debug/net7.0/ref/USER-DEFINED-TYPES.dll

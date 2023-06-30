@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/bin/Debug/net7.0/STATIC AND BEYOND
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/bin/Debug/net7.0/STATIC AND BEYOND.deps.json
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/bin/Debug/net7.0/STATIC AND BEYOND.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/bin/Debug/net7.0/STATIC AND BEYOND.dll
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/bin/Debug/net7.0/STATIC AND BEYOND.pdb
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/obj/Debug/net7.0/STATIC AND BEYOND.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/obj/Debug/net7.0/STATIC AND BEYOND.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/obj/Debug/net7.0/STATIC AND BEYOND.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/obj/Debug/net7.0/STATIC AND BEYOND.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/obj/Debug/net7.0/STATIC AND BEYOND.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/obj/Debug/net7.0/STATIC AND BEYOND.dll
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/obj/Debug/net7.0/refint/STATIC AND BEYOND.dll
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/obj/Debug/net7.0/STATIC AND BEYOND.pdb
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/obj/Debug/net7.0/STATIC AND BEYOND.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/STATIC AND BEYOND/obj/Debug/net7.0/ref/STATIC AND BEYOND.dll
