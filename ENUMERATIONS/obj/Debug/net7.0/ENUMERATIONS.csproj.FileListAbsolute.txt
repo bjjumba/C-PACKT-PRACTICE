@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/bin/Debug/net7.0/ENUMERATIONS
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/bin/Debug/net7.0/ENUMERATIONS.deps.json
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/bin/Debug/net7.0/ENUMERATIONS.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/bin/Debug/net7.0/ENUMERATIONS.dll
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/bin/Debug/net7.0/ENUMERATIONS.pdb
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/obj/Debug/net7.0/ENUMERATIONS.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/obj/Debug/net7.0/ENUMERATIONS.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/obj/Debug/net7.0/ENUMERATIONS.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/obj/Debug/net7.0/ENUMERATIONS.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/obj/Debug/net7.0/ENUMERATIONS.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/obj/Debug/net7.0/ENUMERATIONS.dll
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/obj/Debug/net7.0/refint/ENUMERATIONS.dll
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/obj/Debug/net7.0/ENUMERATIONS.pdb
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/obj/Debug/net7.0/ENUMERATIONS.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/ENUMERATIONS/obj/Debug/net7.0/ref/ENUMERATIONS.dll

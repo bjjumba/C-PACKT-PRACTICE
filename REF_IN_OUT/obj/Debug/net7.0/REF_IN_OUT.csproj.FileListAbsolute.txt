@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/bin/Debug/net7.0/REF_IN_OUT
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/bin/Debug/net7.0/REF_IN_OUT.deps.json
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/bin/Debug/net7.0/REF_IN_OUT.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/bin/Debug/net7.0/REF_IN_OUT.dll
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/bin/Debug/net7.0/REF_IN_OUT.pdb
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/obj/Debug/net7.0/REF_IN_OUT.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/obj/Debug/net7.0/REF_IN_OUT.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/obj/Debug/net7.0/REF_IN_OUT.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/obj/Debug/net7.0/REF_IN_OUT.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/obj/Debug/net7.0/REF_IN_OUT.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/obj/Debug/net7.0/REF_IN_OUT.dll
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/obj/Debug/net7.0/refint/REF_IN_OUT.dll
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/obj/Debug/net7.0/REF_IN_OUT.pdb
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/obj/Debug/net7.0/REF_IN_OUT.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/REF_IN_OUT/obj/Debug/net7.0/ref/REF_IN_OUT.dll

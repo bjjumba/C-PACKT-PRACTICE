@@ -26,7 +26,7 @@
          /*OUR MAIN*/
 
          static void Main(String[] args){
-            add();
+            add();/*Call A static method*/
          }
     }
 }

@@ -1,0 +1,5 @@
+/home/benji/Desktop/SAmple/CSHARP/obj/Debug/netcoreapp3.1/C# files.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/obj/Debug/netcoreapp3.1/C# files.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/obj/Debug/netcoreapp3.1/C# files.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/obj/Debug/netcoreapp3.1/C# files.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/obj/Debug/netcoreapp3.1/C# files.csproj.CoreCompileInputs.cache

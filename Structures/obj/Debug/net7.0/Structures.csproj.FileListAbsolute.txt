@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/Structures/bin/Debug/net7.0/Structures
+/home/benji/Desktop/SAmple/CSHARP/Structures/bin/Debug/net7.0/Structures.deps.json
+/home/benji/Desktop/SAmple/CSHARP/Structures/bin/Debug/net7.0/Structures.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/Structures/bin/Debug/net7.0/Structures.dll
+/home/benji/Desktop/SAmple/CSHARP/Structures/bin/Debug/net7.0/Structures.pdb
+/home/benji/Desktop/SAmple/CSHARP/Structures/obj/Debug/net7.0/Structures.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/Structures/obj/Debug/net7.0/Structures.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/Structures/obj/Debug/net7.0/Structures.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/Structures/obj/Debug/net7.0/Structures.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/Structures/obj/Debug/net7.0/Structures.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/Structures/obj/Debug/net7.0/Structures.dll
+/home/benji/Desktop/SAmple/CSHARP/Structures/obj/Debug/net7.0/refint/Structures.dll
+/home/benji/Desktop/SAmple/CSHARP/Structures/obj/Debug/net7.0/Structures.pdb
+/home/benji/Desktop/SAmple/CSHARP/Structures/obj/Debug/net7.0/Structures.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/Structures/obj/Debug/net7.0/ref/Structures.dll

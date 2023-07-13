@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGLbsS2kg6p1YuaAb01i7idmv1xAKjjyCxUuPbEB7V+4rJntvLEIgpxcS5rB5Pb9987X/dZ1MBd40IBOR7QkFw==",
+  "success": true,
+  "projectFilePath": "/home/benji/Desktop/SAmple/CSHARP/C# files.csproj",
+  "expectedPackageFiles": [
+    "/home/benji/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/benji/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/benji/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.32/microsoft.netcore.app.host.linux-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
