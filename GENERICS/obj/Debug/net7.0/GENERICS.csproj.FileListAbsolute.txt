@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/bin/Debug/net7.0/GENERICS
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/bin/Debug/net7.0/GENERICS.deps.json
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/bin/Debug/net7.0/GENERICS.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/bin/Debug/net7.0/GENERICS.dll
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/bin/Debug/net7.0/GENERICS.pdb
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/obj/Debug/net7.0/GENERICS.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/obj/Debug/net7.0/GENERICS.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/obj/Debug/net7.0/GENERICS.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/obj/Debug/net7.0/GENERICS.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/obj/Debug/net7.0/GENERICS.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/obj/Debug/net7.0/GENERICS.dll
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/obj/Debug/net7.0/refint/GENERICS.dll
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/obj/Debug/net7.0/GENERICS.pdb
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/obj/Debug/net7.0/GENERICS.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/GENERICS/obj/Debug/net7.0/ref/GENERICS.dll
