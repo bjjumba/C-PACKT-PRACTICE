@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/bin/Debug/net7.0/ADVANCED
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/bin/Debug/net7.0/ADVANCED.deps.json
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/bin/Debug/net7.0/ADVANCED.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/bin/Debug/net7.0/ADVANCED.dll
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/bin/Debug/net7.0/ADVANCED.pdb
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/obj/Debug/net7.0/ADVANCED.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/obj/Debug/net7.0/ADVANCED.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/obj/Debug/net7.0/ADVANCED.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/obj/Debug/net7.0/ADVANCED.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/obj/Debug/net7.0/ADVANCED.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/obj/Debug/net7.0/ADVANCED.dll
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/obj/Debug/net7.0/refint/ADVANCED.dll
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/obj/Debug/net7.0/ADVANCED.pdb
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/obj/Debug/net7.0/ADVANCED.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/ADVANCED/obj/Debug/net7.0/ref/ADVANCED.dll
