@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/bin/Debug/net7.0/FunctionalProgramming
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/bin/Debug/net7.0/FunctionalProgramming.deps.json
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/bin/Debug/net7.0/FunctionalProgramming.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/bin/Debug/net7.0/FunctionalProgramming.dll
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/bin/Debug/net7.0/FunctionalProgramming.pdb
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.dll
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/obj/Debug/net7.0/refint/FunctionalProgramming.dll
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.pdb
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/obj/Debug/net7.0/FunctionalProgramming.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/FunctionalProgramming/obj/Debug/net7.0/ref/FunctionalProgramming.dll
