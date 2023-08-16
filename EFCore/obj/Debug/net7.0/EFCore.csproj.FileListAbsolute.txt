@@ -54,3 +54,7 @@
 /home/benji/Desktop/SAmple/CSHARP/EFCore/obj/Debug/net7.0/EFCore.pdb
 /home/benji/Desktop/SAmple/CSHARP/EFCore/obj/Debug/net7.0/EFCore.genruntimeconfig.cache
 /home/benji/Desktop/SAmple/CSHARP/EFCore/obj/Debug/net7.0/ref/EFCore.dll
+/home/benji/Desktop/SAmple/CSHARP/EFCore/bin/Debug/net7.0/Humanizer.dll
+/home/benji/Desktop/SAmple/CSHARP/EFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/benji/Desktop/SAmple/CSHARP/EFCore/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/benji/Desktop/SAmple/CSHARP/EFCore/bin/Debug/net7.0/System.CodeDom.dll
