@@ -13,8 +13,7 @@ static void QueryingCategories()
         {
             SectionTitle("Categories and how many products they have:");
             // a query to get all categories and their related products
-            IQueryable<Category>? categories = db.Categories?
-            .Include(c => c.Products);
+            IQueryable<Category>? categories = db.Categories?.Include(c => c.Products);
 
             if ((categories is null) || (!categories.Any()))
             {

@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/bin/Debug/net7.0/WorkingWithCollection
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/bin/Debug/net7.0/WorkingWithCollection.deps.json
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/bin/Debug/net7.0/WorkingWithCollection.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/bin/Debug/net7.0/WorkingWithCollection.dll
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/bin/Debug/net7.0/WorkingWithCollection.pdb
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/obj/Debug/net7.0/WorkingWithCollection.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/obj/Debug/net7.0/WorkingWithCollection.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/obj/Debug/net7.0/WorkingWithCollection.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/obj/Debug/net7.0/WorkingWithCollection.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/obj/Debug/net7.0/WorkingWithCollection.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/obj/Debug/net7.0/WorkingWithCollection.dll
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/obj/Debug/net7.0/refint/WorkingWithCollection.dll
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/obj/Debug/net7.0/WorkingWithCollection.pdb
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/obj/Debug/net7.0/WorkingWithCollection.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/WorkingWithCollection/obj/Debug/net7.0/ref/WorkingWithCollection.dll

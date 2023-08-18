@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using EFCore.Model;
+using Microsoft.EntityFrameworkCore.Diagnostics;
+
 namespace EFCore;
 
 public class Northwind : DbContext {
@@ -12,6 +14,7 @@ public class Northwind : DbContext {
             WriteLine($"Connection: {connection}");
             ForegroundColor = previousColor;
             optionsBuilder.UseSqlite(connection);
+            optionsBuilder.LogTo(WriteLine, new[] { RelationalEventId.CommandExecuting }).EnableSensitiveDataLogging();//logging with the console
         }
             // these properties map to tables in the database
             public DbSet<Category>? Categories { get; set; }
@@ -33,4 +36,6 @@ public class Northwind : DbContext {
                     .HasConversion<double>();
                 }
         }
+
+       
 }

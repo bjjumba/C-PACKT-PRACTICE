@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/CSHARP/THREADS/bin/Debug/net7.0/THREADS
+/home/benji/Desktop/SAmple/CSHARP/THREADS/bin/Debug/net7.0/THREADS.deps.json
+/home/benji/Desktop/SAmple/CSHARP/THREADS/bin/Debug/net7.0/THREADS.runtimeconfig.json
+/home/benji/Desktop/SAmple/CSHARP/THREADS/bin/Debug/net7.0/THREADS.dll
+/home/benji/Desktop/SAmple/CSHARP/THREADS/bin/Debug/net7.0/THREADS.pdb
+/home/benji/Desktop/SAmple/CSHARP/THREADS/obj/Debug/net7.0/THREADS.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/CSHARP/THREADS/obj/Debug/net7.0/THREADS.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/CSHARP/THREADS/obj/Debug/net7.0/THREADS.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/THREADS/obj/Debug/net7.0/THREADS.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/CSHARP/THREADS/obj/Debug/net7.0/THREADS.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/CSHARP/THREADS/obj/Debug/net7.0/THREADS.dll
+/home/benji/Desktop/SAmple/CSHARP/THREADS/obj/Debug/net7.0/refint/THREADS.dll
+/home/benji/Desktop/SAmple/CSHARP/THREADS/obj/Debug/net7.0/THREADS.pdb
+/home/benji/Desktop/SAmple/CSHARP/THREADS/obj/Debug/net7.0/THREADS.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/CSHARP/THREADS/obj/Debug/net7.0/ref/THREADS.dll
